@@ -2,7 +2,7 @@
 Devices Website
 
 ## Demo link:
-Access my site at [google.com](martinyis.github.io/devicesMarket/)
+Access my site at [California Website](martinyis.github.io/devicesMarket/)
 
 ## Table of Content:
 
